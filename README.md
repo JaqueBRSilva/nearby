@@ -29,8 +29,7 @@
 <br />
 
 <p>
-    Nearby é um aplicativo mobile de clube de benefícios com cupons para utilizar em estabelecimentos próximos a você.
-    Feito em Expo/React Native.
+    Nearby é um projeto mobile de clube de benefícios com cupons para utilizar em estabelecimentos próximos a você.
 </p>
 
 <br />
@@ -85,6 +84,24 @@
         <a target="_blank" href="https://gorhom.dev/react-native-bottom-sheet/"
         >
             React Native Bottom Sheet
+        </a>
+    </li>
+    <li>
+        <a target="_blank" href="https://docs.expo.dev/versions/latest/sdk/map-view/"
+        >
+            (Expo) MapView
+        </a>
+    </li>
+    <li>
+        <a target="_blank" href="https://docs.expo.dev/versions/latest/sdk/location/"
+        >
+            (Expo) Location
+        </a>
+    </li>
+    <li>
+        <a target="_blank" href="https://docs.expo.dev/versions/latest/sdk/camera/"
+        >
+            (Expo) Camera
         </a>
     </li>
 </ul>
