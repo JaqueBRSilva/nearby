@@ -34,6 +34,32 @@
 
 <br />
 
+<h3 align="center">
+    <img
+        alt="Nearby Preview"
+        src="https://live.staticflickr.com/65535/54243190094_96cffcd901_k.jpg"
+        alt="Tela - Boas vindas"
+        width="30%"
+        height=""
+    />
+    <img
+        alt="Nearby Preview"
+        src="https://live.staticflickr.com/65535/54242950076_238db304e8_k.jpg"
+        alt="Tela - Locais Próximos"
+        width="30%"
+        height=""
+    />
+    <img
+        alt="Nearby Preview"
+        src="https://live.staticflickr.com/65535/54243369700_198acf0aa1_k.jpg"
+        alt="Tela - Detalhes"
+        width="30%"
+        height=""
+    />
+</h3>
+
+<br />
+
 <h2>🎨 CONFERIR DESIGN</h2>
 
 <ul style="list-style-type:circle">
